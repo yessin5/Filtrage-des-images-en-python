@@ -18,7 +18,7 @@ Ce script comporte:
 - Filtrage par convolution
 - Application des Filtre prédéfinis Sobel, Prewitt et Canny
 
-#################################################################################################
+#######################################################################################
 
 This work is part of my academic journey in the subject "Image and Video Processing & Coding" in the 2nd year of Data Engineering and Decision Systems.
 
